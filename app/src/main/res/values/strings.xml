@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVVM-Demo</string>
+    <string name="input_account">请输入账号</string>
+</resources>
